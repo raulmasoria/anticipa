@@ -1,0 +1,7 @@
+anticipa.form:
+  path: '/formulario'
+  defaults:
+    _title: 'Formulario Anticipa'
+    _form: '\Drupal\anticipa\Form\Anticipa'
+  requirements:
+    _permission: 'access content'
